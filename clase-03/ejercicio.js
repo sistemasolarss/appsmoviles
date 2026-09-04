@@ -5,8 +5,8 @@
 // De lo contrario debe retornar `false`.
 // ==============================================================================
 
-function contraseñavalida (str) {
-    return  ( str === "2Fj(jjbFsuj" || "eoZiugBf&g9");
+function contraseñavalida(str) {
+    return (str === "2Fj(jjbFsuj" || "eoZiugBf&g9");
 }
 let str = "pepito";
 let str = "eoZiugBf&g9";
